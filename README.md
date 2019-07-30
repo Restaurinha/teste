@@ -1,2 +1,1 @@
-# teste
-asd
+_embed #channel ptext=@Restauração#9554 | author=name= icon=https://static-cdn.jtvnw.net/jtv_user_pictures/team-wowbrasil-team_logo_image-5c708e9634a24ca4a0c7978189f69181-600x600.png url=http://Twitch.tv/nanda | description=**[Twitch](https://twitch.tv/nanda)**  | thumbnail=https://scontent-gru2-2.xx.fbcdn.net/v/t1.0-9/67175887_10211210424496105_6451946614180282368_n.jpg?_nc_cat=100&_nc_oc=AQkWa-AWaFNq5wEKtT-MbnBOUhZPSq7icQLIYlUzpKl59SDntQi94PYgFw9zH5xpeNg&_nc_ht=scontent-gru2-2.xx&oh=3d214d5632f1f411615bd449fc4ce30e&oe=5DA50EC2 | footer=name=World of Warcraft Brasil icon=https://static-cdn.jtvnw.net/jtv_user_pictures/team-wowbrasil-team_logo_image-5c708e9634a24ca4a0c7978189f69181-600x600.png | color=#8080ff
